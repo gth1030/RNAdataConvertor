@@ -1,0 +1,7 @@
+SYMBOL	featureCount
+sym1	48
+sym2	35
+sym3	8
+sym4	18580
+sym5	48
+
